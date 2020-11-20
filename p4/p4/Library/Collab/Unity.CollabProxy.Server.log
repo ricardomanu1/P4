@@ -1,0 +1,21 @@
+Starting proxy server
+11/11/2020 14:40:09 :: RepositoryExists handler took 118,1532 ms
+11/11/2020 14:40:09 :: InitializeRepository handler took 18,7277 ms
+11/11/2020 14:40:13 :: SetCurrentHeadAsync handler took 340,2893 ms
+11/11/2020 14:40:15 :: SetCurrentHeadAsync handler took 111,4277 ms
+11/11/2020 14:45:21 :: GetWorkingDirectoryChangesAsync handler took 966,942 ms
+11/11/2020 14:45:21 :: SetCurrentHeadAsync handler took 291,4333 ms
+11/11/2020 14:45:53 :: GetWorkingDirectoryChangesAsync handler took 327,0309 ms
+11/11/2020 14:45:54 :: GetWorkingDirectoryChangesAsync handler took 315,0002 ms
+11/11/2020 14:45:54 :: GetWorkingDirectoryChangesAsync handler took 310,3131 ms
+11/11/2020 14:45:55 :: GetWorkingDirectoryChangesAsync handler took 304,9858 ms
+11/11/2020 14:46:11 :: GetWorkingDirectoryChangesAsync handler took 307,1276 ms
+11/11/2020 14:47:32 :: GetWorkingDirectoryChangesAsync handler took 306,5718 ms
+11/11/2020 14:48:04 :: GetWorkingDirectoryChangesAsync handler took 310,8131 ms
+11/11/2020 14:48:04 :: GetWorkingDirectoryChangesAsync handler took 314,9219 ms
+11/11/2020 14:48:04 :: GetWorkingDirectoryChangesAsync handler took 309,8728 ms
+11/11/2020 14:48:05 :: GetWorkingDirectoryChangesAsync handler took 300,1643 ms
+11/11/2020 14:48:05 :: GetWorkingDirectoryChangesAsync handler took 295,0363 ms
+11/11/2020 14:48:10 :: GetWorkingDirectoryChangesAsync handler took 314,3139 ms
+11/11/2020 14:51:19 :: SetCurrentHeadAsync handler took 300,2992 ms
+Stopping proxy server
